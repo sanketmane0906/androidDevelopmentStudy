@@ -1,0 +1,4 @@
+What is AVD?
+
+AVD stands for the android virtual device, a configuration that defines the characteristics of an android device emulator in android device emulator in android studio.
+It is part of android emulator which allows developer to simulate an android device on their computer for app testing and development
