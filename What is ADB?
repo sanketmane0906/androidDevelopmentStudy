@@ -1,0 +1,5 @@
+What is ADB?
+
+ADB stands for android debug bridge a versatile command line tool that aloows developer to communicate with android device or emulators. 
+It is part of android SDK (Software Development Kit) and 
+it is commonly used in various development & debugging task
